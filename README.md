@@ -1,2 +1,2 @@
 # ds_memes
-The most important DS repo on github
+The most important DS/AI/ML repo on github
